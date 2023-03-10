@@ -12,7 +12,7 @@ transferred DNN model is significantly smaller than the required training datase
 * CVX Matlab
 
 # **Data used:**
-* Data can be downloaded from the Release. 
+* Data can be downloaded from the "Releases" (See Releases on Right side). 
 
 ## **License**
 * The project is licensed under the GNU General Public License v3.0.
