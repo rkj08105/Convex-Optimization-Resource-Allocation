@@ -11,6 +11,9 @@ transferred DNN model is significantly smaller than the required training datase
 * Python
 * CVX Matlab
 
+# **Data used:**
+* Data can be downloaded from the Release. 
+
 ## **License**
 * The project is licensed under the GNU General Public License v3.0.
 * You may obtain a copy of the License at https://www.gnu.org/licenses/gpl-3.0.en.html
