@@ -9,6 +9,7 @@ transferred DNN model is significantly smaller than the required training datase
 * Deep Neural Network
 * TensorFlow
 * Python
+* CVX Matlab
 
 ## **License**
 * The project is licensed under the GNU General Public License v3.0.
